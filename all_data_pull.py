@@ -4,7 +4,7 @@ import csv
 from datetime import datetime, timedelta
 
 # Directory containing the text files
-input_directory = "path_to_your_text_files"
+input_directory = "data/"
 # Output CSV file
 output_csv = "combined_methane_data.csv"
 
